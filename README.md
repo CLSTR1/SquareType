@@ -3,6 +3,7 @@
 ## Index
 
 * [About](#about)
+* [How to switch versions](#how-to-switch-versions)
 * [Downloads](#downloads)
 * [License](#license)
 * [Issues](#issues)
@@ -20,6 +21,10 @@ Here is a screenshot of how the game looks with vanilla font, and with my font. 
 ![Original - Left, SquareType - Right](https://i.imgur.com/Rnb5WQI.png)
 This font also supports Cyrillic alphabet.
 ![Russian Page](https://i.imgur.com/q34kvpq.png)
+
+## How to switch versions
+To view the pack files and to switch between resource pack versions, click the branch button (`main`) and select the version you want to see!
+![image](https://github.com/user-attachments/assets/36651b83-6348-4a73-9f0b-648e3a83cca4)
 
 ## Downloads
 
