@@ -1,3 +1,5 @@
+# SquareType
+## About
 **Are you tired of the vanilla, boring font?\
 Do you want to try something new?\
 Or maybe you want to give your Minecraft a new look?**
