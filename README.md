@@ -23,7 +23,7 @@ This font also supports Cyrillic alphabet.
 
 ## Downloads
 
-You can download this resourcepack on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/squaretype) or[Modrinth](https://modrinth.com/resourcepack/squaretype)
+You can download this resourcepack on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/squaretype) or [Modrinth](https://modrinth.com/resourcepack/squaretype)
 
 ## License
 
