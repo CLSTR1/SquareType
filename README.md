@@ -24,6 +24,7 @@ This font also supports Cyrillic alphabet.
 
 ## How to switch versions
 To view the pack files and to switch between resource pack versions, click the branch button (`main`) and select the version you want to see!
+
 ![image](https://github.com/user-attachments/assets/36651b83-6348-4a73-9f0b-648e3a83cca4)
 
 ## Downloads
